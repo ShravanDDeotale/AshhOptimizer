@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AshhOptimizer.Service/AshhOptimizer.Service.csproj" />
+  <Project Path="OptimizerUI/OptimizerUI.csproj" />
+</Solution>
